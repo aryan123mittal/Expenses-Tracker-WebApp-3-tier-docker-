@@ -2,6 +2,8 @@
 Expenses-Tracker-WebApp (3 -Tier Application with Docker Compose)
 
 
+git clone https://github.com/aryan123mittal/Expenses-Tracker-WebApp-3-tier-docker-.git
+
 # Java application
 
 
@@ -56,7 +58,6 @@ Base image : Apache Maven
 
 → Now start,
 
-git clone https://github.com/LondheShubham153/Expenses-Tracker-WebApp.git
 cd Expenses-Tracker-WebApp/
 
 rm -v Dockerfile docker-compose.yml
